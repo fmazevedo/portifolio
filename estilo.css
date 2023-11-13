@@ -1,0 +1,14 @@
+body {
+    background-color:indigo;
+}
+
+.principal {
+    
+}
+#nome {
+    translate: 0 100px;
+    transform: rotate(90deg);
+    min-width: 100%;
+    font-size: 150%;
+
+}
